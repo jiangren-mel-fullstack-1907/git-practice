@@ -15,4 +15,4 @@ Git command practice
 ## starts from here
 ```
 天天向上
-上蹿下跳
+上行下效
