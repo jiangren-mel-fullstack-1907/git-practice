@@ -24,3 +24,4 @@ Git command practice
 地大物博
 默默无闻
 文韜武略
+略迹原情
