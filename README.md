@@ -21,3 +21,4 @@ Git command practice
 出尘不染
 染须种齿
 齿亡舌存
+存心养性
