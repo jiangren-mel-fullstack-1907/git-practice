@@ -19,3 +19,4 @@ Git command practice
 跳梁小丑
 丑态百出
 出尘不染
+染须种齿
