@@ -22,3 +22,4 @@ Git command practice
 染须种齿
 齿亡舌存
 存心养性
+性情中人
