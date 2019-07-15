@@ -25,3 +25,4 @@ Git command practice
 性情中人
 人云亦云
 云谲波诡
+诡异多端
