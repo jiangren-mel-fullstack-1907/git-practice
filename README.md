@@ -15,3 +15,11 @@ Git command practice
 ## starts from here
 ```
 天天向上
+上蹿下跳
+跳梁小丑
+丑态百出
+出尘不染
+染须种齿
+齿亡舌存
+存心养性
+性情中人
