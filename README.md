@@ -32,3 +32,4 @@ Git command practice
 刀山火海
 海纳百川
 川流不息
+息交绝游
